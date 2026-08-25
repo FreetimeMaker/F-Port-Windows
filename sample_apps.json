@@ -6,21 +6,21 @@
     "version": "1.0.0",
     "developer": "FreetimeMaker",
     "category": "Utilities",
-    "iconUrl": "https://github.com/FreetimeMaker/XMRiGUI-Windows/blob/master/xmrigui.png",
+    "iconUrl": "https://raw.githubusercontent.com/FreetimeMaker/XMRiGUI-Windows/master/xmrigui.png",
     "downloadUrl": "https://github.com/FreetimeMaker/XMRiGUI-Windows/releases/download/v1.0.0/XMRiGUI-Setup.exe",
     "installSize": "54.8 MB",
     "isInstalled": false
   },
   {
-    "id": "xmrigui_standalone",
-    "name": "XMRiGUI Standalone",
-    "description": "A free and Open Source App with GUI/UI for the XMRig mining Software.",
+    "id": "fport_test",
+    "name": "F-Port Test App",
+    "description": "A test application for F-Port App Store.",
     "version": "1.0.0",
     "developer": "FreetimeMaker",
     "category": "Utilities",
-    "iconUrl": "https://github.com/FreetimeMaker/XMRiGUI-Windows/blob/master/xmrigui.png",
-    "downloadUrl": "https://github.com/FreetimeMaker/XMRiGUI-Windows/releases/download/v1.0.0/XMRiGUI-Setup.exe",
-    "installSize": "54.8 MB",
+    "iconUrl": "https://raw.githubusercontent.com/FreetimeMaker/F-Port-Windows/main/F-Port%20(Package)/Assets/StoreLogo.png",
+    "downloadUrl": "https://github.com/FreetimeMaker/F-Port-Windows/releases/download/v1.0.0/F-Port-Setup.exe",
+    "installSize": "10.0 MB",
     "isInstalled": false
   }
 ]
