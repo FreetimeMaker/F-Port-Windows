@@ -37,14 +37,7 @@
       <uap:VisualElements
         DisplayName="F-Port"
         Description="F-Port is a cross-platform app store for Windows, Linux and Android. Discover, download, and install applications from a curated catalog."
-        BackgroundColor="transparent"
-        Square150x150Logo="Images\Square150x150Logo.png"
-        Square44x44Logo="Images\Square44x44Logo.png">
-        <uap:DefaultTile Wide310x150Logo="Images\Wide310x150Logo.png" ShortName="F-Port" />
-        <uap:SplashScreen Image="Images\SplashScreen.png" />
-        <uap:InitialRotationPreference>
-          <uap:Rotation Preference="landscape"/>
-          <uap:Rotation Preference="portraitFlipped"/></uap:InitialRotationPreference>
+        BackgroundColor="transparent">
       </uap:VisualElements>
     </Application>
   </Applications>

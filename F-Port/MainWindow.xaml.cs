@@ -162,12 +162,6 @@ namespace F_Port
                 Style = (Style)Application.Current.Resources["CaptionTextBlockStyle"]
             });
 
-            // Rating
-            var ratingPanel = new StackPanel { Orientation = Orientation.Horizontal, Spacing = 4 };
-            ratingPanel.Children.Add(new FontIcon { Glyph = "", Foreground = new Microsoft.UI.Xaml.Media.SolidColorBrush(Microsoft.UI.Colors.Gold) });
-            ratingPanel.Children.Add(new TextBlock { Text = app.Rating.ToString("F1"), Style = (Style)Application.Current.Resources["CaptionTextBlockStyle"] });
-            stackPanel.Children.Add(ratingPanel);
-
             // Description
             stackPanel.Children.Add(new TextBlock
             {
