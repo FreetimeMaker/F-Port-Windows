@@ -1,0 +1,28 @@
+[
+  {
+    "id": "xmrigui_setup",
+    "name": "XMRiGUI Setup",
+    "description": "A free and Open Source App with GUI/UI for the XMRig mining Software.",
+    "version": "1.0.0",
+    "developer": "FreetimeMaker",
+    "category": "Utilities",
+    "iconUrl": "https://github.com/FreetimeMaker/XMRiGUI-Windows/blob/master/xmrigui.png",
+    "downloadUrl": "https://github.com/FreetimeMaker/XMRiGUI-Windows/releases/download/v1.0.0/XMRiGUI-Setup.exe",
+    "installSize": "54.8 MB",
+    "screenshots": [],
+    "isInstalled": false
+  },
+  {
+    "id": "xmrigui_standalone",
+    "name": "XMRiGUI Standalone",
+    "description": "A free and Open Source App with GUI/UI for the XMRig mining Software.",
+    "version": "1.0.0",
+    "developer": "FreetimeMaker",
+    "category": "Utilities",
+    "iconUrl": "https://github.com/FreetimeMaker/XMRiGUI-Windows/blob/master/xmrigui.png",
+    "downloadUrl": "https://github.com/FreetimeMaker/XMRiGUI-Windows/releases/download/v1.0.0/XMRiGUI-Setup.exe",
+    "installSize": "54.8 MB",
+    "screenshots": [],
+    "isInstalled": false
+  }
+]
