@@ -12,7 +12,7 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="ChatGPT-Image-25.-Aug.-2026_-03_38_25.ico" />
+    <Content Include="F-Port.ico" />
   </ItemGroup>
 
   <ItemGroup>
@@ -32,6 +32,6 @@
     <PublishTrimmed Condition="'$(Configuration)' == 'Debug'">False</PublishTrimmed>
     <PublishTrimmed Condition="'$(Configuration)' != 'Debug'">True</PublishTrimmed>
     <StartupObject>F_Port.Program</StartupObject>
-    <ApplicationIcon>ChatGPT-Image-25.-Aug.-2026_-03_38_25.ico</ApplicationIcon>
+    <ApplicationIcon>F-Port.ico</ApplicationIcon>
   </PropertyGroup>
 </Project>
