@@ -10,7 +10,7 @@ namespace F_Port.Services
     public class AppStoreService
     {
         private readonly HttpClient _httpClient;
-        private const string DefaultJsonUrl = "https://example.com/apps.json"; // Replace with actual URL
+        private const string DefaultJsonUrl = "https://github.com/FreetimeMaker/F-Port-Windows/blob/main/sample_apps.json";
 
         public AppStoreService()
         {
