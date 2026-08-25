@@ -1,108 +1,9 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jamie\\source\\repos\\F-Port\\F-Port (Package)\\F-Port (Package).wapproj": {}
+    "C:\\Users\\jamie\\source\\repos\\F-Port\\F-Port\\F-Port.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jamie\\source\\repos\\F-Port\\F-Port (Package)\\F-Port (Package).wapproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\jamie\\source\\repos\\F-Port\\F-Port (Package)\\F-Port (Package).wapproj",
-        "projectName": "F-Port (Package)",
-        "projectPath": "C:\\Users\\jamie\\source\\repos\\F-Port\\F-Port (Package)\\F-Port (Package).wapproj",
-        "packagesPath": "C:\\Users\\jamie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jamie\\source\\repos\\F-Port\\F-Port (Package)\\obj\\",
-        "projectStyle": "PackageReference",
-        "UsingMicrosoftNETSdk": false,
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\jamie\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net451"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net451": {
-            "framework": "uap10.0.17763",
-            "targetAlias": "net451",
-            "projectReferences": {
-              "C:\\Users\\jamie\\source\\repos\\F-Port\\F-Port\\F-Port.csproj": {
-                "projectPath": "C:\\Users\\jamie\\source\\repos\\F-Port\\F-Port\\F-Port.csproj"
-              }
-            }
-          }
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "10.0.400"
-      },
-      "frameworks": {
-        "net451": {
-          "framework": "uap10.0.17763",
-          "targetAlias": "net451",
-          "dependencies": {
-            "Microsoft.Windows.SDK.BuildTools": {
-              "target": "Package",
-              "version": "[10.0.28000.2526, )"
-            },
-            "Microsoft.WindowsAppSDK": {
-              "target": "Package",
-              "version": "[2.4.0, )"
-            }
-          },
-          "imports": [
-            "net8.0-windows10.0.28000",
-            "netcoreapp3.1",
-            "netcoreapp3.0",
-            "netcoreapp2.0",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481",
-            "net11.0-windows10.0.28000",
-            "net461"
-          ],
-          "assetTargetFallback": true,
-          "warn": true
-        }
-      },
-      "runtimes": {
-        "win10-arm": {
-          "#import": []
-        },
-        "win10-arm-aot": {
-          "#import": []
-        },
-        "win10-arm64-aot": {
-          "#import": []
-        },
-        "win10-x64": {
-          "#import": []
-        },
-        "win10-x64-aot": {
-          "#import": []
-        },
-        "win10-x86": {
-          "#import": []
-        },
-        "win10-x86-aot": {
-          "#import": []
-        }
-      }
-    },
     "C:\\Users\\jamie\\source\\repos\\F-Port\\F-Port\\F-Port.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -110,7 +11,7 @@
         "projectName": "F-Port",
         "projectPath": "C:\\Users\\jamie\\source\\repos\\F-Port\\F-Port\\F-Port.csproj",
         "packagesPath": "C:\\Users\\jamie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jamie\\source\\repos\\F-Port\\F-Port\\obj\\",
+        "outputPath": "C:\\Users\\jamie\\source\\repos\\F-Port\\F-Port\\obj\\wappublish\\win-x86\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

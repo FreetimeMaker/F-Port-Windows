@@ -10,7 +10,7 @@
 
   <Identity
     Name="FreetimeMaker.F-Port"
-    Publisher="CN=FreetimeMaker"
+    Publisher="CN=66EF6443-7251-4068-B458-346F6610FAEA"
     Version="1.0.0.0" />
 
   <mp:PhoneIdentity PhoneProductId="67c9bf7e-1e4b-42d7-9200-747b11a1dd3d" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
